@@ -1,10 +1,14 @@
 # VideoAgentNode
 
-[Agent Network (anet.sh)](https://anet.sh) 中的视频工厂节点 —— AI Agent 驱动的视频内容生产基地。
+> 🎬 Use this template → 一键创建你自己的 AI 视频工厂
+
+[Agent Network (anet.sh)](https://anet.sh) 视频工厂模板 —— AI Agent 驱动的节点化视频内容生产基地。
 
 ## 简介
 
-VideoAgentNode 是 Agent Network 里专门负责视频生产的工厂节点，由 AI Agent 组织协调，多节点协作完成视频内容的策划、制作和发布。
+VideoAgentNode 是一个 **template 仓库**，提供完整的 AI 视频生产架构和 SOP。基于 Agent Network，由 AI Agent 组织协调，多节点协作完成视频内容的策划、制作和发布。
+
+点击 "Use this template" 即可创建你自己的视频工厂实例。
 
 ## 视频类型
 
