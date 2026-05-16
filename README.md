@@ -1,6 +1,6 @@
-# VideoNode
+# VideoAgentNode
 
-视频工厂 —— AI 视频内容生产基地。
+视频工厂 —— AI Agent 驱动的节点化视频内容生产基地。
 
 ## 视频类型
 
